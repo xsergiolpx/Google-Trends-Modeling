@@ -1,3 +1,3 @@
 # Google-Trends-Modeling
 
-In this team project, we make a model to predict the US depression precentage at state level with a coefficient of determination of 0.74. We used the public interest rate from Google Trends of a set of depression related keywords.
+In this team project, we made a model to predict the US depression percentage at state level with a coefficient of determination of 0.74. We used the public interest rate of Google Trends for a set of depression related keywords.
